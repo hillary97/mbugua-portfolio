@@ -232,7 +232,7 @@
 .skillset{
   text-align: ;
   padding: 10px;
-  width:120px;
+  width:px;
 }
 .skillset p{
   font-size: 10px;
@@ -263,4 +263,12 @@ button[type="submit"]{
   .hide {
     display: none;
   }
+}
+.person{
+  position: relative;
+}
+.quotes{
+  position: absolute;
+  top:-30px;
+  right: 5px;
 }
